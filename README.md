@@ -8,3 +8,7 @@
 
 
 复制index.js.md5直链就是你的X接口
+
+
+还可以通过套上加速
+https://gh-proxy.com/
