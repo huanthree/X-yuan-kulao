@@ -6,6 +6,8 @@
 
 壳子：https://dogpan.com/s/wpN1iz
 
+播放器官网：https://github.com/leosprings/ant_video
+
 
 复制index.js.md5直链就是你的X接口
 
